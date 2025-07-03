@@ -11,15 +11,6 @@ Currently, two official plugins are available:
 
 A simple and elegant digital clock web application built using **HTML**, **CSS**, and **JavaScript**. It displays the current local time and updates every second — perfect for learning or using in a portfolio.
 
-🔗 [Live Demo](https://abhishek-sharma08.github.io/DigitalClock) _(Add if deployed to GitHub Pages)_
-
----
-
-## 📸 Preview
-
-> _(Optional)_ Add a screenshot/gif here showing the digital clock interface
-
----
 
 ## 🚀 Features
 
